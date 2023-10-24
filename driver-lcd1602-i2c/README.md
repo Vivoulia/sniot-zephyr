@@ -1,7 +1,7 @@
 # LCD 1602 I2C Driver for Zephyr
 
 > [!WARNING]
-> Warning: the program contains intentional errors for educational purposes!
+> The program contains intentional errors for educational purposes!
 
 ## Usage
 
